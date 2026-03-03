@@ -29,7 +29,7 @@ A simple, clean Android task management app that lets users create, view, edit, 
 
 ## Screenshots
 
-### Portrait Screenshots
+
 
 **Task list screen**  
 ![Task List](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/Taskslist.png)
@@ -151,4 +151,5 @@ TaskManager/
 ### Student ID & Name
 - Student Id = 14630 
 - Student Name = P T R Jayakodi
+
 
