@@ -32,35 +32,27 @@ A simple, clean Android task management app that lets users create, view, edit, 
 ### Portrait Screenshots
 
 **Task list screen**  
-![Task List](assets/Task%20List.png)
+![Task List](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/Taskslist.png)
 
 **Add new task screen**  
-![Add Task](assets/Add%20Task.png)
+![Add Task](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/Addtask.png)
 
-**Update task screen**  
-![Update Task](assets/Update%20Task.png)
+**Routate task screen**  
+![Routate Task](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/rotateAddtask.png)
 
 **Delete task**  
-![Delete Task](assets/Delete%20Task.png)
+![Delete Task](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/deletetask.png)
 
 **Required task**  
-![Required Task](assets/Required.png)
+![Rotate Task list](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/rotatetasklist.png)
 
 ---
 
-### Rotation Screenshots
+** task add screen**  
+![ Task add](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/taskadded.png)
 
-**Rotation task list screen**  
-![Rotation Task List](assets/Rotaction%20Add%20task.png)
-
-**Rotation add new task screen**  
-![Rotation Add Task](assets/Rotaction%20Add%20task.png)
-
-**Rotation update task screen**  
-![Rotation Update Task](assets/Rotaction%20Update%20task.png)
-
-**Rotation delete task screen**  
-![Rotation Delete Task](assets/Rotaction%20Delete%20task.png)
+**task delete screen**  
+![Task delete](https://github.com/thisararan/Task-Manager/blob/6583c26e1a55bc4f1d3243085f57c84f49cfae39/Screenshots/taskdeleted.png)
 
 ---
 
@@ -159,3 +151,4 @@ TaskManager/
 ### Student ID & Name
 - Student Id = 14630 
 - Student Name = P T R Jayakodi
+
